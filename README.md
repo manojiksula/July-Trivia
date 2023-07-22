@@ -7,4 +7,4 @@ If lab not working contact me on [Instagram @hardikgupta.social](https://www.ins
 |------|------------|----------|------------|--------------|-----------------|
 |  01  | GSP937 | Datadog: Getting started with the Helm Chart | NOT CHECKED ❌ | NO ETA | NOT UPLOADED |
 |  02  | GSP817 | Getting Started with Elasticsearch on Google Cloud | NOT CHECKED ❌ | NO ETA | NOT UPLOADED |
-|  03  | GSP1022 | Palo Alto Networks: VM-Series Network Tags and TCP/UDP Internal Load Balancing | NOT CHECKED ❌ | NO ETA | NOT UPLOADED |
+|  03  | GSP1022 | Palo Alto Networks: VM-Series Network Tags and TCP/UDP Internal Load Balancing | WORKING FINE ✅ | 22-07-2023 6:42 PM | UPLOADED |
